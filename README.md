@@ -1,5 +1,5 @@
 
-**BounceUg Website**
+**BOUNCING HOUSE UG WEBSITE**
 
 Welcome to the BounceUg Website repository! This project is dedicated to providing a platform for experiencing bouncing fun in Uganda. From traditional bounce houses to exciting inflatable water slides, BounceUg offers a variety of options for high-quality, clean, and safe entertainment suitable for any event or occasion.
 
@@ -36,17 +36,19 @@ Contributions to the BounceUg Website project are welcome and encouraged! If you
 
 **Clone the Repository:** Clone your forked repository to your local machine using the following command:
 
-git clone https://github.com/your-username/BounceUg-Website.git
+**git clone https://github.com/your-username/BounceUg-Website.git**
 
 **Make Changes:** Make your desired changes to the project files on your local machine.
 
 **Commit Changes:** After making changes, commit them to your forked repository with descriptive commit messages.
 
-git add .
-git commit -m "Your commit message here"
+**git add .**
+
+**git commit -m "Your commit message here"**
 
 **Push Changes:** Push your changes to your forked repository on GitHub.
-git push origin main
+
+**git push origin main**
 
 **Create a Pull Request:** Go to your forked repository on GitHub, switch to the branch containing your changes, and click the "New Pull Request" button to submit your changes for review.
 
