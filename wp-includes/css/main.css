@@ -1,0 +1,582 @@
+.hustle-ui.module_id_1 .hustle-popup-content {
+			max-width: 800px;
+		}
+
+		.hustle-ui.module_id_1 {
+			padding-right: 15px;
+			padding-left: 15px;
+		}
+
+		.hustle-ui.module_id_1 .hustle-popup-content .hustle-info,
+		.hustle-ui.module_id_1 .hustle-popup-content .hustle-optin {
+			padding-top: 15px;
+			padding-bottom: 15px;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 {
+				padding-right: 15px;
+				padding-left: 15px;
+			}
+
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-popup-content .hustle-info,
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-popup-content .hustle-optin {
+				padding-top: 15px;
+				padding-bottom: 15px;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout {
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 0px;
+			border-width: 0px 0px 0px 0px;
+			border-style: solid;
+			border-color: rgba(0, 0, 0, 0);
+			border-radius: 0px 0px 0px 0px;
+			overflow: hidden;
+			background-color: #ffffff;
+			-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout {
+				margin: 0px 0px 0px 0px;
+				padding: 0px 0px 0px 0px;
+				border-width: 0px 0px 0px 0px;
+				border-style: solid;
+				border-radius: 0px 0px 0px 0px;
+				-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-layout-content {
+			padding: 40px 40px 40px 40px;
+			border-width: 0px 0px 0px 0px;
+			border-style: solid;
+			border-radius: 0px 0px 0px 0px;
+			border-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0);
+			-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+		}
+
+		.hustle-ui.module_id_1 .hustle-main-wrapper {
+			position: relative;
+			padding: 32px 0 0;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-layout-content {
+				padding: 96px 50px 96px 50px;
+				border-width: 0px 0px 0px 0px;
+				border-style: solid;
+				border-radius: 0px 0px 0px 0px;
+				-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			}
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-main-wrapper {
+				padding: 32px 0 0;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-image {
+			background-color: #f1faee;
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-image {
+			height: 275px;
+			overflow: hidden;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-image {
+				max-width: 50%;
+				height: auto;
+				min-height: 0;
+				-webkit-box-flex: 0;
+				-ms-flex: 0 0 50%;
+				flex: 0 0 50%;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-image img {
+			width: 100%;
+			max-width: unset;
+			height: 100%;
+			display: block;
+			position: absolute;
+			object-fit: cover;
+			-ms-interpolation-mode: bicubic;
+		}
+
+		@media all and (-ms-high-contrast: none),
+		(-ms-high-contrast: active) {
+			.hustle-ui.module_id_1 .hustle-layout .hustle-image img {
+				width: auto;
+				max-width: unset;
+				height: auto;
+				max-height: unset;
+			}
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-image img {
+				width: 100%;
+				max-width: unset;
+				height: 100%;
+				display: block;
+				position: absolute;
+				object-fit: cover;
+				-ms-interpolation-mode: bicubic;
+			}
+		}
+
+		@media all and (min-width: 783px) and (-ms-high-contrast: none),
+		(-ms-high-contrast: active) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-image img {
+				width: auto;
+				max-width: unset;
+				height: auto;
+				max-height: unset;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-image img {
+			object-position: center -75px;
+			-o-object-position: center -75px;
+		}
+
+		@media all and (-ms-high-contrast: none),
+		(-ms-high-contrast: active) {
+			.hustle-ui.module_id_1 .hustle-layout .hustle-image img {
+				left: 50%;
+			}
+		}
+
+		@media all and (-ms-high-contrast: none),
+		(-ms-high-contrast: active) {
+			.hustle-ui.module_id_1 .hustle-layout .hustle-image img {
+				transform: translateX(-50%);
+				-ms-transform: translateX(-50%);
+				-webkit-transform: translateX(-50%);
+			}
+		}
+
+		@media all and (-ms-high-contrast: none),
+		(-ms-high-contrast: active) {
+			.hustle-ui.module_id_1 .hustle-layout .hustle-image img {
+				top: -75px;
+			}
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-image img {
+				object-position: center center;
+				-o-object-position: center center;
+			}
+		}
+
+		@media all and (min-width: 783px) and (-ms-high-contrast: none),
+		(-ms-high-contrast: active) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-image img {
+				left: 50%;
+				right: auto;
+			}
+		}
+
+		@media all and (min-width: 783px) and (-ms-high-contrast: none),
+		(-ms-high-contrast: active) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-image img {
+				transform: translate(-50%, -50%);
+				-ms-transform: translate(-50%, -50%);
+				-webkit-transform: translate(-50%, -50%);
+			}
+		}
+
+		@media all and (min-width: 783px) and (-ms-high-contrast: none),
+		(-ms-high-contrast: active) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-image img {
+				top: 50%;
+				bottom: auto;
+			}
+		}
+
+		@media all and (min-width: 783px) and (-ms-high-contrast: none),
+		(-ms-high-contrast: active) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-image img {
+				transform: translate(-50%, -50%);
+				-ms-transform: translate(-50%, -50%);
+				-webkit-transform: translate(-50%, -50%);
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-content {
+			margin: 0px 0px 0px 0px;
+			padding: 40px 40px 40px 40px;
+			border-width: 0px 0px 0px 0px;
+			border-style: solid;
+			border-radius: 0px 0px 0px 0px;
+			border-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0);
+			-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-content .hustle-content-wrap {
+			padding: 40px 0 40px 0;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-content {
+				margin: 0px 0px 0px 0px;
+				padding: 120px 50px 120px 50px;
+				border-width: 0px 0px 0px 0px;
+				border-style: solid;
+				border-radius: 0px 0px 0px 0px;
+				-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			}
+
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-content .hustle-content-wrap {
+				padding: 120px 0 120px 0;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-title {
+			display: block;
+			margin: 0px 0px 10px 0px;
+			padding: 0px 0px 0px 0px;
+			border-width: 0px 0px 0px 0px;
+			border-style: solid;
+			border-color: rgba(0, 0, 0, 0);
+			border-radius: 0px 0px 0px 0px;
+			background-color: rgba(0, 0, 0, 0);
+			box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			color: #1d3557;
+			font: 500 14px/16px Roboto;
+			font-style: normal;
+			letter-spacing: 1.5px;
+			text-transform: uppercase;
+			text-decoration: none;
+			text-align: left;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-title {
+				margin: 0px 0px 10px 0px;
+				padding: 0px 0px 0px 0px;
+				border-width: 0px 0px 0px 0px;
+				border-style: solid;
+				border-radius: 0px 0px 0px 0px;
+				box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				font: 500 14px/16px Roboto;
+				font-style: normal;
+				letter-spacing: 1.5px;
+				text-transform: uppercase;
+				text-decoration: none;
+				text-align: left;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-subtitle {
+			display: block;
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 0px;
+			border-width: 0px 0px 0px 0px;
+			border-style: solid;
+			border-color: rgba(0, 0, 0, 0);
+			border-radius: 0px 0px 0px 0px;
+			background-color: rgba(0, 0, 0, 0);
+			box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			color: #1d3557;
+			font: 700 36px/46px Rubik;
+			font-style: normal;
+			letter-spacing: 0px;
+			text-transform: none;
+			text-decoration: none;
+			text-align: left;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-subtitle {
+				margin: 0px 0px 0px 0px;
+				padding: 0px 0px 0px 0px;
+				border-width: 0px 0px 0px 0px;
+				border-style: solid;
+				border-radius: 0px 0px 0px 0px;
+				box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				font: 700 36px/46px Rubik;
+				font-style: normal;
+				letter-spacing: 0px;
+				text-transform: none;
+				text-decoration: none;
+				text-align: left;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-cta-container {
+			margin: 20px 0px 0px 0px;
+			padding: 0px 0px 0px 0px;
+			border-color: rgba(0, 0, 0, 0);
+			border-width: 0px 0px 0px 0px;
+			border-style: solid;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-cta-container {
+				margin: 20px 0px 0px 0px;
+				padding: 0px 0px 0px 0px;
+				border-width: 0px 0px 0px 0px;
+				border-style: solid;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout a.hustle-button-cta {
+			margin: 0;
+			padding: 9px 9px 9px 9px;
+			border-width: 2px 2px 2px 2px;
+			border-style: solid;
+			border-color: #e63946;
+			border-radius: 0px 0px 0px 0px;
+			background-color: #e63946;
+			-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+			color: #FFFFFF;
+			font: 700 14px/22px Roboto;
+			font-style: normal;
+			letter-spacing: 0.5px;
+			text-transform: uppercase;
+			text-decoration: none;
+			text-align: center;
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout a.hustle-button-cta:hover {
+			border-color: #e63946;
+			background-color: #e63946;
+			color: #FFFFFF;
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout a.hustle-button-cta:focus {
+			border-color: #e63946;
+			background-color: #e63946;
+			color: #FFFFFF;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout a.hustle-button-cta {
+				padding: 9px 45px 9px 45px;
+				border-width: 2px 2px 2px 2px;
+				border-style: solid;
+				border-radius: 0px 0px 0px 0px;
+				box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				-moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				-webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+				font: 700 14px/22px Roboto;
+				font-style: normal;
+				letter-spacing: 0.5px;
+				text-transform: uppercase;
+				text-decoration: none;
+				text-align: center;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-cta-container {
+			display: flex;
+			flex-direction: column;
+		}
+
+		.hustle-ui.module_id_1 .hustle-layout .hustle-cta-container .hustle-button-cta {
+			width: 100%;
+			display: block;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-cta-container {
+				justify-content: left;
+				display: flex;
+				flex-direction: unset;
+			}
+
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-cta-container .hustle-button-cta {
+				width: auto;
+				display: inline-block;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-nsa-link {
+			margin: 15px 0px 0px 0px;
+			text-align: center;
+		}
+
+		.hustle-ui.module_id_1 .hustle-nsa-link {
+			font-size: 14px;
+			line-height: 22px;
+			font-family: Roboto;
+			letter-spacing: -0.22px;
+		}
+
+		.hustle-ui.module_id_1 .hustle-nsa-link a,
+		.hustle-ui.module_id_1 .hustle-nsa-link a:visited {
+			color: #e1e1e1;
+			font-weight: normal;
+			font-style: normal;
+			text-transform: none;
+			text-decoration: none;
+		}
+
+		.hustle-ui.module_id_1 .hustle-nsa-link a:hover {
+			color: #e1e1e1;
+		}
+
+		.hustle-ui.module_id_1 .hustle-nsa-link a:focus,
+		.hustle-ui.module_id_1 .hustle-nsa-link a:active {
+			color: #e1e1e1;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-nsa-link {
+				margin: 15px 0px 0px 0px;
+				text-align: center;
+			}
+
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-nsa-link {
+				font-size: 14px;
+				line-height: 22px;
+				letter-spacing: -0.22px;
+			}
+
+			.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-nsa-link a {
+				font-weight: normal;
+				font-style: normal;
+				text-transform: none;
+				text-decoration: none;
+			}
+		}
+
+		button.hustle-button-close .hustle-icon-close:before {
+			font-size: inherit;
+		}
+
+		.hustle-ui.module_id_1 button.hustle-button-close {
+			color: #ffffff;
+			background: transparent;
+			border-radius: 0;
+			position: absolute;
+			z-index: 1;
+			display: block;
+			width: 32px;
+			height: 32px;
+			right: 0;
+			left: auto;
+			top: 0;
+			bottom: auto;
+			transform: unset;
+		}
+
+		.hustle-ui.module_id_1 button.hustle-button-close .hustle-icon-close {
+			font-size: 12px;
+		}
+
+		.hustle-ui.module_id_1 button.hustle-button-close:hover {
+			color: #ffffff;
+		}
+
+		.hustle-ui.module_id_1 button.hustle-button-close:focus {
+			color: #ffffff;
+		}
+
+		@media screen and (min-width: 783px) {
+			.hustle-ui:not(.hustle-size--small).module_id_1 button.hustle-button-close .hustle-icon-close {
+				font-size: 12px;
+			}
+
+			.hustle-ui:not(.hustle-size--small).module_id_1 button.hustle-button-close {
+				background: transparent;
+				border-radius: 0;
+				display: block;
+				width: 32px;
+				height: 32px;
+				right: 0;
+				left: auto;
+				top: 0;
+				bottom: auto;
+				transform: unset;
+			}
+		}
+
+		.hustle-ui.module_id_1 .hustle-popup-mask {
+			background-color: rgba(0, 0, 0, 0.75);
+		}
+
+
+
+		/* Image Zoom In Effect */
+.fusion-image-element img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.fusion-image-element:hover img {
+  transform: scale(1.1);
+}
+
+/* 3D Flip Effect */
+.fusion-layout-column img {
+  transition: transform 0.5s ease-in-out;
+  transform-style: preserve-3d;
+}
+
+.fusion-layout-column:hover img {
+  transform: rotateY(180deg);
+}
+
+/* Parallax Effect */
+.fusion-layout-column {
+  overflow: hidden;
+}
+
+.fusion-layout-column img {
+  transition: transform 0.5s ease-in-out;
+}
+
+.fusion-layout-column:hover img {
+  transform: translateX(-10%);
+}
+
+/* Pulse Animation Effect */
+.fusion-image-element img {
+  transition: transform 0.5s ease-in-out;
+}
+
+.fusion-image-element:hover img {
+  transform: scale(1.2);
+  animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+}

@@ -1,0 +1,172 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap');
+
+/* Apply the font-family property to all <p> elements */
+p {
+    font-family: 'Rubik Maps', sans-serif;
+    text-align: justify;
+}
+
+
+@media screen and (max-width: 640px) {
+  .fusion-no-small-visibility {
+    display: none !important;
+  }
+
+  body .sm-text-align-center {
+    text-align: center !important;
+  }
+
+  body .sm-text-align-left {
+    text-align: left !important;
+  }
+
+  body .sm-text-align-right {
+    text-align: right !important;
+  }
+
+  body .sm-flex-align-center {
+    justify-content: center !important;
+  }
+
+  body .sm-flex-align-flex-start {
+    justify-content: flex-start !important;
+  }
+
+  body .sm-flex-align-flex-end {
+    justify-content: flex-end !important;
+  }
+
+  body .sm-mx-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  body .sm-ml-auto {
+    margin-left: auto !important;
+  }
+
+  body .sm-mr-auto {
+    margin-right: auto !important;
+  }
+
+  body .fusion-absolute-position-small {
+    position: absolute;
+    top: auto;
+    width: 100%;
+  }
+
+  .awb-sticky.awb-sticky-small {
+    position: sticky;
+    top: var(--awb-sticky-offset, 0);
+  }
+}
+
+@media screen and (min-width: 641px) and (max-width: 1024px) {
+  .fusion-no-medium-visibility {
+    display: none !important;
+  }
+
+  body .md-text-align-center {
+    text-align: center !important;
+  }
+
+  body .md-text-align-left {
+    text-align: left !important;
+  }
+
+  body .md-text-align-right {
+    text-align: right !important;
+  }
+
+  body .md-flex-align-center {
+    justify-content: center !important;
+  }
+
+  body .md-flex-align-flex-start {
+    justify-content: flex-start !important;
+  }
+
+  body .md-flex-align-flex-end {
+    justify-content: flex-end !important;
+  }
+
+  body .md-mx-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  body .md-ml-auto {
+    margin-left: auto !important;
+  }
+
+  body .md-mr-auto {
+    margin-right: auto !important;
+  }
+
+  body .fusion-absolute-position-medium {
+    position: absolute;
+    top: auto;
+    width: 100%;
+  }
+
+  .awb-sticky.awb-sticky-medium {
+    position: sticky;
+    top: var(--awb-sticky-offset, 0);
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .fusion-no-large-visibility {
+    display: none !important;
+  }
+
+  body .lg-text-align-center {
+    text-align: center !important;
+  }
+
+  body .lg-text-align-left {
+    text-align: left !important;
+  }
+
+  body .lg-text-align-right {
+    text-align: right !important;
+  }
+
+  body .lg-flex-align-center {
+    justify-content: center !important;
+  }
+
+  body .lg-flex-align-flex-start {
+    justify-content: flex-start !important;
+  }
+
+  body .lg-flex-align-flex-end {
+    justify-content: flex-end !important;
+  }
+
+  body .lg-mx-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  body .lg-ml-auto {
+    margin-left: auto !important;
+  }
+
+  body .lg-mr-auto {
+    margin-right: auto !important;
+  }
+
+  body .fusion-absolute-position-large {
+    position: absolute;
+    top: auto;
+    width: 100%;
+  }
+
+  .awb-sticky.awb-sticky-large {
+    position: sticky;
+    top: var(--awb-sticky-offset, 0);
+  }
+}
+

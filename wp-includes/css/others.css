@@ -1,0 +1,45 @@
+.ers_container table,
+.ers_container table td,
+.ers_container td,
+.ers_container input,
+#ers_container table,
+#ers_container table td,
+#ers_container td,
+#ers_container input {
+  width: auto;
+  white-space: normal;
+  max-width: 5000px;
+  padding: 2px;
+}
+
+.ers_container td {
+  min-width: 30px;
+}
+
+.ers_container table,
+.ers_container td,
+.ers_container th,
+.ers_container tr,
+.ers_container table,
+#ers_container table,
+#ers_container td,
+#ers_container th,
+#ers_container tr,
+#ers_container table {
+  border: none;
+  margin: 0;
+  padding: 1px;
+  margin: 1px;
+  max-width: 5000px;
+  padding: 2px;
+}
+
+.ers_container,
+#ers_container {
+  width: 100%;
+  position: relative;
+  border: none;
+  max-width: 5000px;
+  padding: 2px;
+  color: #000;
+}
